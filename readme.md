@@ -21,7 +21,7 @@ Dans le cadre de cet exercice, nous vous demandons de montrer/cacher le mot de p
 ## Aides
 
 1. Écoutez le clic sur l'élément `.showPass`.
-1. Changer le type de l'input de `password` vers `text`
+1. Changer le type de l'input de `password` vers `text`.
 1. Assurez de pouvoir retourner à l'état initial quand l'utilisateur clique une seconde fois.
 
 
